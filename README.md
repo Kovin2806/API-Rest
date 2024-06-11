@@ -1,7 +1,4 @@
-# r1-barria
-Reto 1 Kevin Barria
-
-# API Rest de Cuentas
+# API Rest de cuentas utilizando Spring Boot (Java), Maven y MySQL.
 
 Este proyecto es una API Rest desarrollada en Spring Boot para gestionar cuentas usando Visual Studio Code, MySQL, Postman. A continuación, se proporciona la documentación necesaria para revisar, probar y ejecutar la API.
 
